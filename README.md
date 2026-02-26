@@ -98,38 +98,40 @@ I'm a passionate developer and cloud engineer focused on building scalable, secu
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erenjugs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenjugs&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/erenjugs">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=erenjugs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em"/>
+  </a>
+  <a href="https://github.com/erenjugs">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erenjugs&layout=compact&langs_count=8&theme=tokyonight" height="180em"/>
+  </a>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=erenjugs&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
-
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=erenjugs&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <a href="https://github.com/erenjugs">
+    <img src="https://github-profile-trophy.vercel.app/?username=erenjugs&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  </a>
+</p>
 
 ---
 
+## 🔥 Contribution Stats
+
+<p align="center">
+  <a href="https://github.com/erenjugs">
+    <img src="https://streak-stats.demolab.com?user=erenjugs&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=erenjugs&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=erenjugs&color=blueviolet&style=for-the-badge)
 
 ### ⭐ Show some love by starring my repos!
 
