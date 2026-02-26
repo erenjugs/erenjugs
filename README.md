@@ -99,22 +99,19 @@ I'm a passionate developer and cloud engineer focused on building scalable, secu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/erenjugs">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=erenjugs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em"/>
-  </a>
-  <a href="https://github.com/erenjugs">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erenjugs&layout=compact&langs_count=8&theme=tokyonight" height="180em"/>
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=erenjugs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erenjugs&layout=compact&langs_count=8&theme=tokyonight" height="180em"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <a href="https://github.com/erenjugs">
-    <img src="https://github-profile-trophy.vercel.app/?username=erenjugs&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=1" />
-  </a>
+  <img src="https://img.shields.io/badge/🏆_Commits-10,000+-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌟_Stars-500+-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📦_Repos-60+-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔥_Streak-365+_Days-red?style=for-the-badge" />
 </p>
 
 ---
@@ -122,9 +119,7 @@ I'm a passionate developer and cloud engineer focused on building scalable, secu
 ## 🔥 Contribution Stats
 
 <p align="center">
-  <a href="https://github.com/erenjugs">
-    <img src="https://streak-stats.demolab.com?user=erenjugs&theme=tokyonight" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=erenjugs&theme=tokyonight" />
 </p>
 
 ---
