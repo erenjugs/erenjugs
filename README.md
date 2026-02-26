@@ -2,18 +2,20 @@
   
 # Hey there! 👋 I'm erenjugs
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Engineer;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Engineer;Security+Specialist;Always+learning+new+things)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm currently learning **Cloud Architecture & AI/ML**
-- 💬 Ask me about **Web Development, Cloud, DevOps**
-- ⚡ Fun fact: **I code more than I sleep**
+I'm a passionate developer and cloud engineer focused on building scalable, secure systems. I specialize in full-stack development, cloud architecture, and cybersecurity.
+
+- 🎓 **Bachelor's Degree** in Computer Science
+- 🔐 Specializing in **Cloud Security & DevOps**
+- 🚀 Building **highly-available, resilient systems**
+- 📚 Always learning and exploring new technologies
 
 ---
 
@@ -41,6 +43,62 @@
 
 ---
 
+## ☑ Credentials
+
+<p align="center">
+  <a href="https://www.credly.com/"><img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+  <a href="https://www.credly.com/"><img src="https://img.shields.io/badge/AWS-Security_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+  <a href="https://www.credly.com/"><img src="https://img.shields.io/badge/Azure-Solutions_Architect-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
+  <a href="https://www.credly.com/"><img src="https://img.shields.io/badge/Azure-Security_Engineer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
+  <a href="https://www.credly.com/"><img src="https://img.shields.io/badge/Google-Cloud_Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
+  <a href="https://www.credly.com/"><img src="https://img.shields.io/badge/Kubernetes-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+  <a href="https://www.credly.com/"><img src="https://img.shields.io/badge/Docker-Certified-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://www.credly.com/"><img src="https://img.shields.io/badge/Terraform-Certified-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /></a>
+</p>
+
+### ✔ Accreditations:
+- AWS Certified Solutions Architect - Professional
+- AWS Certified Security - Specialty
+- AWS Certified Developer - Associate
+- Microsoft Azure Solutions Architect Expert
+- Microsoft Azure Security Engineer Associate
+- Microsoft Azure DevOps Engineer Expert
+- Google Professional Cloud Architect
+- Certified Kubernetes Administrator (CKA)
+- Certified Ethical Hacker (CEH)
+- CompTIA Security+
+- Docker Certified Associate
+- HashiCorp Terraform Associate
+
+---
+
+## ☑ A Brief Overview of What I Do: **Cloud Engineering**
+
+I engineer cloud-based systems that are based on these tenets:
+
+- **🛡️ Resiliency** - If something "goes wrong" in the code; the program is able to self-heal or continue without affecting the entire system itself.
+
+- **⚡ Highly-available** - The system is *ideally* available at all times; the system converges towards an error-free state and is therefore self stabilizing.
+
+- **🔄 Redundancy** - There will always be multiple identical instances of the system and it will switch to one of the redundant instances in case of failover.
+
+- **📈 Efficiency** - The above three cost a lot to achieve; my designs are extremely efficient. If there is too much code, complexity, both, or either, I will revert the changes and re-create the system until it is.
+
+---
+
+## ☑ More Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Cloud Infrastructure](https://github.com/erenjugs)** | Automated multi-cloud deployment pipeline | Terraform, AWS, Azure, GCP |
+| **[Security Scanner](https://github.com/erenjugs)** | Vulnerability assessment tool for web apps | Python, Docker, CI/CD |
+| **[API Gateway](https://github.com/erenjugs)** | High-performance rate-limited API gateway | Node.js, Redis, Kubernetes |
+| **[Monitoring Stack](https://github.com/erenjugs)** | Full observability platform | Prometheus, Grafana, ELK |
+| **[Auth Service](https://github.com/erenjugs)** | Zero-trust authentication microservice | Go, JWT, OAuth2 |
+| **[Data Pipeline](https://github.com/erenjugs)** | Real-time ETL data processing | Apache Kafka, Spark, Python |
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -48,10 +106,16 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
