@@ -17,6 +17,30 @@
 
 ---
 
+## 🎯 Featured Projects
+
+### Tesla Full Self-Driving - Vision Based Approach
+
+<p align="center">
+  <img src="tezlafsd.gif" alt="Tesla FSD Demo" />
+</p>
+
+<p align="center">
+  <img src="beforeafter.gif" alt="Before After Demo" />
+</p>
+
+### Tesla Autopilot Visualization
+
+<p align="center">
+  <img src="tesla_autopilot_0023.gif" alt="Tesla Autopilot" />
+</p>
+
+<p align="center">
+  <img src="tesla_f1.gif" alt="Tesla F1" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -66,16 +90,6 @@
 <div align="center">
   
 [![erenjugs's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erenjugs&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Watch my contribution snake eat my commits
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/erenjugs/erenjugs/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
