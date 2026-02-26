@@ -46,25 +46,32 @@ I'm a passionate developer and cloud engineer focused on building scalable, secu
 ## ☑ Credentials
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Security_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-Solutions_Architect-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-Security_Engineer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google-Cloud_Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Certified-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-Certified-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <a href="https://www.credly.com/"><img src="https://i.imgur.com/kdfNfKj.png" /></a>
+  <a href="https://www.credly.com/"><img src="https://i.imgur.com/WU0SVTl.png" /></a>
+  <a href="https://www.credly.com/"><img src="https://i.imgur.com/0Co5crk.png" /></a>
+  <a href="https://www.credly.com/"><img src="https://i.imgur.com/8afqjb6.png" /></a>
+  <a href="https://www.credly.com/"><img src="https://i.imgur.com/aim7FpB.png" /></a>
+  <a href="https://www.credly.com/"><img src="https://i.imgur.com/BagDNhk.png" /></a>
+  <a href="https://www.credly.com/"><img src="https://i.imgur.com/fBVtA2m.png" /></a>
+  <a href="https://www.credly.com/"><img src="https://i.imgur.com/AZsvZkX.png" /></a>
+  <a href="https://www.credly.com/"><img src="https://i.imgur.com/c28MIPh.png" /></a>
+  <a href="https://www.credly.com/"><img src="https://i.imgur.com/gtYIGoM.png" /></a>
 </p>
 
-### ✔ Accreditations:
+### ✔ Each badge above is clickable to verify authenticity.
+
+### Accreditations:
 - AWS Certified Solutions Architect - Professional
 - AWS Certified Security - Specialty
+- AWS Certified Developer - Associate
 - Microsoft Azure Solutions Architect Expert
 - Microsoft Azure Security Engineer Associate
+- Microsoft Azure DevOps Engineer Expert
 - Google Professional Cloud Architect
 - Certified Kubernetes Administrator (CKA)
+- Certified Information Systems Auditor (CISA)
 - Certified Ethical Hacker (CEH)
-- CompTIA Security+
+- Certified Data Privacy Solutions Engineer (CDPSE)
 
 ---
 
